@@ -1,3 +1,12 @@
+You can find the project here - https://product-card-dev.netlify.app/
+
+
+
+
+
+
+
+
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
